@@ -1,5 +1,5 @@
 # major-project
-Smart crop customizable cultivating bot
+Smart Crop–Customizable Gardening System: A Grid Layout Approach and a CNC based Design
 
 The world’s population is growing and with that growth we must produce more food. Due to the industrial and petrochemical revolutions, the agriculture industry has kept up in food production, but only by compromising the soil, the environment, our health, and the food production system itself. The increased production has largely come from incremental changes in technology and economies of scale, but that trend is reaching a plateau. Conventional agriculture methods are unsustainable and a paradigm shift is needed.
 
